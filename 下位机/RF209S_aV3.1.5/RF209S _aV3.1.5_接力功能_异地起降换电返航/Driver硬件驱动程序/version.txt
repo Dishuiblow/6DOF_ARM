@@ -1,0 +1,205 @@
+/******************** (C) 版权所有 2018 STMicroelectronics ********************
+* 文件名：version.txt
+* 作者             : MCD应用团队
+* 版本            : V3.0.6
+* 日期               : 2018年6月1日
+* 描述        : STTube驱动程序的版本文件
+******************************************************WFLY_OH**************************
+* V3.0.6 - 2018年6月1日
+=====================
+新功能
+************
+    + 套餐中包含已签名并认证的司机：
+      - Microsoft Windows 10 x86及所有更早的x86操作系统
+      - Microsoft Windows 10 x64及所有更早的x64操作系统
+   
+如何使用
+**********
+        + 转到Win10目录，查看您机器上安装的所有操作系统
+        + 然后，根据您的操作系统版本：
+如果您运行的是32位操作系统版本，请双击dpinst_x86.exe
+如果您运行的是64位操作系统版本，请双击dpinst_amd64.exe
++ 遵循指示
+ 
+ 
+* V3.0.5 - 2015年9月1日
+=====================
+新功能
+************
+    + 已通过HCK认证并在WindowsUpdate网站上发布：
+      - 微软Windows 8.1
+      - 微软Windows 8.1 x64
+   
+如何使用
+**********
+        + 转到你的操作系统版本目录（Win7、Win8 或 Win8.1）
+        然后根据你的操作系统版本，进入[x86]目录或[x64]目录：
+如果您运行的是32位操作系统版本，请双击dpinst_x86.exe
+如果您运行的是64位操作系统版本，请双击dpinst_amd64.exe
++ 遵循指示
+* V3.0.4 - 2014年10月20日
+=====================
+新功能
+************
+    + 已获得WHQL认证并在WindowsUpdate网站上发布：
+      - 微软Windows 8.x
+      - Microsoft Windows 8.x x64
+   
+如何使用
+**********
+        + 转到你的操作系统版本目录（Win7或Win8）
+        然后根据你的操作系统版本，进入[x86]目录或[x64]目录：
+如果您运行的是32位操作系统版本，请双击dpinst_x86.exe
+如果您运行的是64位操作系统版本，请双击dpinst_amd64.exe
++ 遵循指示
+   
+* V3.0.1 - 2009年11月24日
+=====================
+新功能
+************
+    + 通过WHQL认证并在WindowsUpdate网站上发布：
+      - Microsoft Windows 2000系列，
+      - Microsoft Windows XP系列，x86架构
+      - Microsoft Windows XP系列，x64
+      - Microsoft Windows Vista系列，x86架构
+      - Microsoft Windows Vista系列，x64
+      - 微软Windows 7
+      - 微软Windows 7 x64
+* V3.0.0 - 2008年3月7日
+=====================
+新功能
+************
+    + 支持具有多个接口的设备
+    + 支持复合/多功能设备
+    + 支持Windows Vista和Windows 7
+    + 支持64位平台
+增强
+************
+    + 使ioctl可取消
+    + 应用程序关闭时取消挂起的请求
+    + 挂起和休眠模式
+    + 在请求待处理时挂起
+    + 迁移过程中的意外移除
+    + 格式错误的iotcl（微软认证测试）的健壮性问题
+    + 在特定停止情况下存在内存泄漏（微软认证测试）
+    + 返回状态码（微软认证测试）
+******************* (C) 版权所有 2018 STMicroelectronics *****WFLY_OH_文件结束******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************** (C) COPYRIGHT 2018 STMicroelectronics ********************
+* File Name          : version.txt
+* Author             : MCD Application Team
+* Version            : V3.0.6
+* Date               : 01-June-2018
+* Description        : Version file for STTube driver
+********************************************************************************
+
+* V3.0.6 - 01-June-2018
+=====================
+
+New Features
+************
+    + Signed and Certified  driver Included in the package for:
+      - Microsoft Windows 10 x86 and all earlier x86 OS
+      - Microsoft Windows 10 x64 and all earlier x64 OS
+	  
+How to use
+**********
+        + Go Win10 Directory for all OS installed in your machine
+        + Then  based on your OS version:
+			- Double click on dpinst_x86.exe if you are running a 32-bits OS version
+			- Double click on dpinst_amd64.exe if you are running a 64-bits OS version
+		+ Follow the instructions
+		
+	
+
+* V3.0.5 - 01-September-2015
+=====================
+
+New Features
+************
+    + HCK Certified with and published at WindowsUpdate web site :
+      - Microsoft Windows 8.1
+      - Microsoft Windows 8.1 x64
+	  
+How to use
+**********
+        + Go to your OS version directory (Win7, Win8 or Win8.1)
+        + Then go to [x86] directory or [x64] directory based on your OS version:
+			- Double click on dpinst_x86.exe if you are running a 32-bits OS version
+			- Double click on dpinst_amd64.exe if you are running a 64-bits OS version
+		+ Follow the instructions
+
+
+* V3.0.4 - 10/20/2014
+=====================
+
+New Features
+************
+    + WHQL Certified with and published at WindowsUpdate web site :
+      - Microsoft Windows 8.x
+      - Microsoft Windows 8.x x64
+	  
+How to use
+**********
+        + Go to your OS version directory (Win7 or Win8)
+        + Then go to [x86] directory or [x64] directory based on your OS version:
+			- Double click on dpinst_x86.exe if you are running a 32-bits OS version
+			- Double click on dpinst_amd64.exe if you are running a 64-bits OS version
+		+ Follow the instructions
+	  
+
+* V3.0.1 - 11/24/2009
+=====================
+
+New Features
+************
+    + WHQL Certified with and published at WindowsUpdate web site :
+      - Microsoft Windows 2000 family, 
+      - Microsoft Windows XP family, x86
+      - Microsoft Windows XP family, x64 
+      - Microsoft Windows Vista family, x86
+      - Microsoft Windows Vista family, x64 
+      - Microsoft Windows 7
+      - Microsoft Windows 7 x64
+
+
+* V3.0.0 - 07/03/2008
+=====================
+
+New Features
+************
+
+    + Support devices with several interfaces
+    + Support for composite / multifunction devices
+    + Support for WIndows VISTA and Windows Seven
+    + Support for 64 bits platforms
+
+Enhancements
+************
+
+    + make ioctl cancelable
+    + cancel pending request when application closes
+    + suspend and hibernate modes
+    + suspend while requests are pending
+    + surprise removal during transfer
+    + robustness issues for malformed iotcl ( microsoft certification tests )
+    + memory leak in specific stop cases ( microsoft certification tests )
+    + return status codes ( microsoft certification tests )
+
+******************* (C) COPYRIGHT 2018 STMicroelectronics *****END OF FILE******
